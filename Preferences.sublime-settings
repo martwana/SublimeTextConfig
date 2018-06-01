@@ -1,16 +1,20 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"folder_exclude_patterns":
-	[
-		"node_modules",
-		".git"
-	],
-	"font_size": 10,
-	"ignored_packages":
-	[
-		"HTML-CSS-JS Prettify",
-		"JSLint",
-		"Vintage"
-	],
-	"translate_tabs_to_spaces": true
+    "color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+    "theme": "predawn-DEV.sublime-theme",
+    "folder_exclude_patterns":
+    [
+        "node_modules",
+        ".git"
+    ],
+    "font_size": 10,
+    "ignored_packages":
+    [
+        "HTML-CSS-JS Prettify",
+        "JSLint",
+        "Markdown",
+        "Vintage"
+    ],
+    "translate_tabs_to_spaces": true,
+    "predawn_tabs_small": true,
+    "predawn_sidebar_small": true
 }
