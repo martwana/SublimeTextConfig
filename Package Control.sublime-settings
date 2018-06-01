@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Emmet",
+		"GitGutter",
+		"Glue",
+		"HTML-CSS-JS Prettify",
+		"INI",
+		"JSLint",
+		"MarkdownEditing",
+		"MarkdownLivePreview",
+		"MarkdownPreview",
+		"Neon Color Scheme",
+		"Origami",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter-jshint"
+	]
+}

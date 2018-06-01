@@ -1,0 +1,16 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		".git"
+	],
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"HTML-CSS-JS Prettify",
+		"JSLint",
+		"Vintage"
+	],
+	"translate_tabs_to_spaces": true
+}

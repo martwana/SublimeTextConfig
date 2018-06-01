@@ -1,0 +1,5 @@
+{
+    "cmd": ["lambda-local", "-l", "index.js", "-e", "test.js", "-t", "60"],
+    "path": "/Users/martinmcinnes/.nvm/versions/node/v5.3.0/bin/:$PATH",
+    "quiet": true
+}
