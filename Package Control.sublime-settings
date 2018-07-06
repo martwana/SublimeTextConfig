@@ -6,18 +6,14 @@
 	"installed_packages":
 	[
 		"Anaconda",
-		"Emmet",
+		"Git",
 		"GitGutter",
 		"Glue",
 		"INI",
-		"JSLint",
-		"MarkdownEditing",
-		"Origami",
 		"Package Control",
 		"Predawn",
 		"Pretty JSON",
 		"Sass",
-		"SideBarEnhancements",
-		"SublimeLinter-jshint"
+		"SideBarEnhancements"
 	]
 }

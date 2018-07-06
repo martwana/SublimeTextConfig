@@ -5,17 +5,15 @@
 		"node_modules",
 		".git"
 	],
-	"font_size": 10,
+	"font_size": 11,
 	"ignored_packages":
 	[
-		"JSLint",
-		"Markdown",
 		"Vintage"
 	],
 	"predawn_sidebar_small": true,
 	"predawn_tabs_small": true,
 	"remember_full_screen": true,
-	"show_tab_close_buttons": false,
+	"show_tab_close_buttons": true,
 	"theme": "predawn-DEV.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
